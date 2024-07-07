@@ -96,7 +96,7 @@
 
 **There are a lot of other notable shortcuts used on vs code. I hope that this repository has been useful and I would love feedbacks.**
 
-**The attached pdf file covers all the possible keyboard shortcuts.(Just for windows!)
+**The attached pdf file covers all the possible keyboard shortcuts.(Just for windows tho!)**
 
 **I would appreciate stars and follows on this repo and my profile (github.com/XBanTs) and also feel free to share.**
 **I'm avaialable on social platforms like X(Twitter) through the user: @XBanTs_**
